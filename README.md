@@ -1,3 +1,4 @@
 # Meals Brochure App
 
-![Image Slider](android/screenshots/ezgif-7-76fe009948.gif)
+
+<img src="android/screenshots/ezgif-7-76fe009948.gif" alt="Image Slider" width="500">
